@@ -1,0 +1,30 @@
+.IoT{
+  font-style: bold !important;
+  color: #ea0a8e !important;
+};
+
+
+body {
+ background-image: url( 'https://images.pexels.com/photos/905874/pexels-photo-905874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  text-align: center;
+  padding: 25px 10px 5px;
+}
+
+.btn {
+	background-color:  #ea0a8e !important;
+	
+
+}
+
+.headerDashboard{
+  color: #ea0a8e !important;
+}
+
+.titleLanding{
+   color: #ea0a8e !important;
+}
+
+.imageLanding{
+  background-image: url("https://drive.google.com/open?id=13Oiu8PCDZqJCy-MCEaXT1HQjIyGisH8n");
+
+}
